@@ -2,12 +2,12 @@
   "keys": [
       {
           "key": "123",
-          "hwid": "",
+          "hwid": "hwid1890605513030mao",
           "expireTime": 1742572800
       },
       {
           "key": "test",
-          "hwid": "hwid1890605515123F41CD19248748D2",
+          "hwid": "",
           "expireTime": 1711209600
       },
       {
