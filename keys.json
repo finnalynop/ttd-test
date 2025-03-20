@@ -1,0 +1,29 @@
+{
+  "keys": [
+      {
+          "key": "123",
+          "hwid": "",
+          "expireTime": 1742572800
+      },
+      {
+          "key": "test",
+          "hwid": "hwid1890605515123F41CD19248748D2",
+          "expireTime": 1711209600
+      },
+      {
+          "key": "7day-key",
+          "hwid": "",
+          "expireTime": 1711641600
+      },
+      {
+          "key": "30day-key",
+          "hwid": "",
+          "expireTime": 1713888000
+      },
+      {
+          "key": "premium-forever",
+          "hwid": "example-hwid-already-bound-12345"
+      },
+      "free-permanent-key"
+  ]
+}
