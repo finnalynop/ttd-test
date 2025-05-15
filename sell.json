@@ -1,5 +1,12 @@
-{
-  "title": "Аккаунт #1",
-  "description": "Цена: 100₽ | Почта привязана",
-  "contact": "@yourtelegram"
-}
+[
+  {
+    "title": "Аккаунт",
+    "description": "Цена: 500 RUB",
+    "contact": "telegram:@username"
+  },
+  {
+    "title": "Аккаунт",
+    "description": "Цена: 200 RUB",
+    "contact": "discord:username#1234"
+  }
+]
