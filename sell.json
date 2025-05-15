@@ -1,12 +1,5 @@
-[
-  {
-    "title": "⭐ Тестовый аккаунт",
-    "description": "Цена: 100RUB",
-    "contact": "telegram:@example"
-  },
-  {
-    "title": "🔥 Аккаунт",
-    "description": "Цена: 300RUB",
-    "contact": "telegram:@example"
-  }
-]
+{
+  "title": "Аккаунт #1",
+  "description": "Цена: 100₽ | Почта привязана",
+  "contact": "@yourtelegram"
+}
