@@ -1,0 +1,21 @@
+{
+  "app": {
+    "version": 83
+  },
+  "items": {
+    "accs": [
+      {
+        "name": "test1",
+        "description": "desc1"
+      },
+      {
+        "name": "test2",
+        "description": "desc2"
+      },
+      {
+        "name": "test3",
+        "description": "desc3"
+      }
+    ]
+  }
+}
